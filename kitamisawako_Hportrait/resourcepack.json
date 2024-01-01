@@ -1,0 +1,20 @@
+{
+  "id": "kitamisawako_Hportrait",
+  "version": "1.0.0",
+  "name": "北见纱和子立绘魔改（羁绊）",
+  "author": "裏天翔",
+  "description": "北见纱和子羁绊立绘工口魔改。",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+  
+    "extendRes/charactor/beijianshahezi_0/bighead.png",
+    "extendRes/charactor/beijianshahezi_0/full.png",
+    "extendRes/charactor/beijianshahezi_0/half.png",
+    "extendRes/charactor/beijianshahezi_0/smallhead.png",
+    "extendRes/charactor/beijianshahezi_0/waitingroom.png"
+  ]
+}

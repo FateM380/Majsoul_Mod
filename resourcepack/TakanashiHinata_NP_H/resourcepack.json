@@ -1,0 +1,20 @@
+{
+  "id": "TakanashiHinata_NP_H",
+  "version": "1.0.0",
+  "name": "小鸟游雏田立绘魔改",
+  "author": "裏天翔",
+  "description": "小鸟游雏田甜蜜茶点立绘工口魔改。",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+  
+    "extendRes/charactor/xiaoniaoyouchutian_NP/bighead.png",
+    "extendRes/charactor/xiaoniaoyouchutian_NP/full.png",
+    "extendRes/charactor/xiaoniaoyouchutian_NP/half.png",
+    "extendRes/charactor/xiaoniaoyouchutian_NP/smallhead.png",
+    "extendRes/charactor/xiaoniaoyouchutian_NP/waitingroom.png"
+  ]
+}

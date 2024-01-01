@@ -1,0 +1,20 @@
+{
+  "id": "yagiyui_Hwsj",
+  "version": "1.0.1",
+  "name": "八木唯立绘魔改",
+  "author": "裏天翔",
+  "description": "八木唯万圣节立绘工口魔改。",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+  
+    "extendRes/charactor/bamuwei_WSJ/bighead.png",
+    "extendRes/charactor/bamuwei_WSJ/full.png",
+    "extendRes/charactor/bamuwei_WSJ/half.png",
+    "extendRes/charactor/bamuwei_WSJ/smallhead.png",
+    "extendRes/charactor/bamuwei_WSJ/waitingroom.png"
+  ]
+}
